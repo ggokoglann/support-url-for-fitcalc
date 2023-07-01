@@ -1,2 +1,2 @@
-# support-url-for-fitcalc
-Must needed support url for my side project fitcalc's app store submission.
+# FitCalc Support
+if you need any help or have any questions you can contact the developer team trough this adress: ggokoglann@gmail.com
